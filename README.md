@@ -29,7 +29,7 @@ Aplicación web para gestionar la información de clientes, desarrollada en ASP.
    - Establecer `login.aspx` como página de inicio.
    - **Credenciales iniciales:**
      - Usuario: admin
-     - Contraseña: admin123*
+     - Contraseña: admin123
 
 ## Limitaciones conocidas
 

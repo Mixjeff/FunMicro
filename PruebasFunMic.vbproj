@@ -92,6 +92,7 @@
     <Import Include="System.Web.UI.HtmlControls" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Database\QueryBD_FunMicro.sql" />
     <Content Include="Global.asax" />
     <Content Include="Img\FundaMicro.png" />
     <Content Include="Login.aspx" />
